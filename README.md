@@ -8,7 +8,7 @@ Worked on AWS EC2 instance for hosting the project
 - Used Git for Source Code Management
 
 ![todo App](https://raw.githubusercontent.com/shreys7/django-todo/develop/staticfiles/todoApp.png)
-/*### Setup
+<!--### Setup
 To get this repository, run the following command inside your git enabled terminal
 ```bash
 $ git clone https://github.com/shreys7/django-todo.git
@@ -43,4 +43,4 @@ Once the server is hosted, head over to http://127.0.0.1:8000/todos for the App.
 
 Now let's setup AWS 
 
-Cheers and Happy Coding :)*/
+Cheers and Happy Coding :)-->
