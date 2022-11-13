@@ -1,8 +1,14 @@
 # django-todo
-A simple todo app built with django
+Created CI/CD pipelies of a web-app using docker, jenkins, AWS.
+
+Worked on AWS EC2 instance for hosting the project
+- Used Shell Scripting for creating Dockerfile
+- Containerised the application by Docker
+- Implemented Jenkins CI/CD Pipeline for automation
+- Used Git for Source Code Management
 
 ![todo App](https://raw.githubusercontent.com/shreys7/django-todo/develop/staticfiles/todoApp.png)
-### Setup
+/*### Setup
 To get this repository, run the following command inside your git enabled terminal
 ```bash
 $ git clone https://github.com/shreys7/django-todo.git
@@ -35,4 +41,6 @@ $ python manage.py runserver
 
 Once the server is hosted, head over to http://127.0.0.1:8000/todos for the App.
 
-Cheers and Happy Coding :)
+Now let's setup AWS 
+
+Cheers and Happy Coding :)*/
